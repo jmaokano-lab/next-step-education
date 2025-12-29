@@ -164,7 +164,7 @@ export const Footer = () => {
 
           {/* Get Contact */}
           <div>
-            <h3 className="text-xl font-bold text-[#188CB1] mb-6">Payments</h3>
+            <h3 className="text-xl font-bold text-[#188CB1] mb-6">Payment</h3>
             <div>
               <Image
                 src={"/payment.png"}
